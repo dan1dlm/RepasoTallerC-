@@ -1,0 +1,97 @@
+{
+  "CantidadDeProductos": 30,
+  "ProductosSmartphoneApple": 2,
+  "PrecioPromedioLaptop": 1499,
+  "PrecioPromedioSmartphone": 1249,
+  "bajosStock": [
+    {
+      "id": 2,
+      "titulo": "iPhone X",
+      "descripcion": "SIM-Free, Model A19211 6.5-inch Super Retina HD display with OLED technology A12 Bionic chip with ...",
+      "precio": 899,
+      "porcentajeDeDescuento": 17.94,
+      "rating": 4.44,
+      "stock": 34,
+      "marca": "Apple",
+      "categoria": "smartphones"
+    },
+    {
+      "id": 3,
+      "titulo": "Samsung Universe 9",
+      "descripcion": "Samsung\u0027s new variant which goes beyond Galaxy to the Universe",
+      "precio": 1249,
+      "porcentajeDeDescuento": 15.46,
+      "rating": 4.09,
+      "stock": 36,
+      "marca": "Samsung",
+      "categoria": "smartphones"
+    },
+    {
+      "id": 5,
+      "titulo": "Huawei P30",
+      "descripcion": "Huawei\u2019s re-badged P30 Pro New Edition was officially unveiled yesterday in Germany and now the device has made its way to the UK.",
+      "precio": 499,
+      "porcentajeDeDescuento": 10.58,
+      "rating": 4.09,
+      "stock": 32,
+      "marca": "Huawei",
+      "categoria": "smartphones"
+    },
+    {
+      "id": 7,
+      "titulo": "Samsung Galaxy Book",
+      "descripcion": "Samsung Galaxy Book S (2020) Laptop With Intel Lakefield Chip, 8GB of RAM Launched",
+      "precio": 1499,
+      "porcentajeDeDescuento": 4.15,
+      "rating": 4.25,
+      "stock": 50,
+      "marca": "Samsung",
+      "categoria": "laptops"
+    },
+    {
+      "id": 23,
+      "titulo": "Orange Essence Food Flavou",
+      "descripcion": "Specifications of Orange Essence Food Flavour For Cakes and Baking Food Item",
+      "precio": 14,
+      "porcentajeDeDescuento": 8.04,
+      "rating": 4.85,
+      "stock": 26,
+      "marca": "Baking Food Items",
+      "categoria": "groceries"
+    },
+    {
+      "id": 25,
+      "titulo": "Gulab Powder 50 Gram",
+      "descripcion": "Dry Rose Flower Powder Gulab Powder 50 Gram \u2022 Treats Wounds",
+      "precio": 70,
+      "porcentajeDeDescuento": 13.58,
+      "rating": 4.87,
+      "stock": 47,
+      "marca": "Dry Rose",
+      "categoria": "groceries"
+    },
+    {
+      "id": 27,
+      "titulo": "Flying Wooden Bird",
+      "descripcion": "Package Include 6 Birds with Adhesive Tape Shape: 3D Shaped Wooden Birds Material: Wooden MDF, Laminated 3.5mm",
+      "precio": 51,
+      "porcentajeDeDescuento": 15.58,
+      "rating": 4.41,
+      "stock": 17,
+      "marca": "Flying Wooden",
+      "categoria": "home-decoration"
+    },
+    {
+      "id": 29,
+      "titulo": "Handcraft Chinese style",
+      "descripcion": "Handcraft Chinese style art luxury palace hotel villa mansion home decor ceramic vase with brass fruit plate",
+      "precio": 60,
+      "porcentajeDeDescuento": 15.34,
+      "rating": 4.44,
+      "stock": 7,
+      "marca": "luxury palace",
+      "categoria": "home-decoration"
+    }
+  ],
+  "NombreProducto": "Huawei P30"
+}
